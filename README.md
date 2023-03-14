@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubha-slack&label=Profile%20views&color=0e75b6&style=flat" alt="shubha-slack" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@shubhad95599273" target="blank"><img src="https://img.shields.io/twitter/follow/@shubhad95599273?logo=twitter&style=for-the-badge" alt="@Shubhad95599273" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Shubhadip_408" target="blank"><img src="https://img.shields.io/twitter/follow/@Shubhadip_408?logo=twitter&style=for-the-badge" alt="@Shubhadip_408" /></a> </p>
 
 - 🌱 I’m currently learning **MERN-stack; Flutter**
 
