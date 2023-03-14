@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@Shubhadip_408" target="blank"><img src="https://img.shields.io/twitter/follow/@Shubhadip_408?logo=twitter&style=for-the-badge" alt="@Shubhadip_408" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@Shubhadip_408" target="blank"><img src="https://img.shields.io/twitter/follow/@Shubhadip_408?logo=twitter&style=for-the-badge" alt="@Shubhadip_408" /></a> </p>
+<p align="left"> <a href="https://Linkedin.com/shubhadip-paul-9063451a6" target="blank"><img src="https://img.shields.io/Linkedin/follow/shubhadip-paul-9063451a6?logo=Linkedin&style=for-the-badge" alt="shubhadip-paul-9063451a6" /></a> </p>
 
 - 🌱 I’m currently learning **MERN-stack; Flutter**
 
